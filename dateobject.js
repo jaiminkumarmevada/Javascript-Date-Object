@@ -31,8 +31,6 @@ let month = monthsArray[myDate.getMonth()];
 console.log(month)
 console.log(`${day}-${month}-${year}`)
 
-//https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
-//key = 6e7a174575f922120bcc1ec904b45223
 
 
 
