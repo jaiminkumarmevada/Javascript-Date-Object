@@ -30,10 +30,3 @@ const monthsArray = [
 let month = monthsArray[myDate.getMonth()];
 console.log(month)
 console.log(`${day}-${month}-${year}`)
-
-
-
-
-//open weather API login
-// jaiminphotoediting2580@gmail.com
-//Mevada@2020
